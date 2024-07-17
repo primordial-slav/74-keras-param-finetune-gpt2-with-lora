@@ -1,0 +1,4 @@
+01-data/*
+[0-9]**.ipynb
+*.pyc*
+*cache*
